@@ -1,5 +1,5 @@
 ---
-name: ability-pkg
+name: openclaw-ability-export
 description: |
   能力包导出/导入工具。用于将当前 agent 的配置打包分享，或从他人的能力包导入配置。
   触发场景：
